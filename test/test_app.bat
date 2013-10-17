@@ -1,1 +1,1 @@
-### test_app.bat - 1.2.0-b - Le Mesnager
+### test_app.bat - 1.2.0-c - Le Mesnager
