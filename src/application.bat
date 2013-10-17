@@ -1,4 +1,4 @@
-### application.bat -201x - Le Mesnager
+### application.bat -201x - Le Mesnager - Anais et Jeremy
 <<<<<<< HEAD
 echo "Copyright company -201x"
 echo "Build: 10:00";
